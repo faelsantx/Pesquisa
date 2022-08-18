@@ -1,0 +1,23 @@
+NÍVEIS DE TESTE
+
+    TESTE DE UNIDADE
+
+    Tem como objetivo encontrar falhas de funcionamento dentro de uma pequena parte do sistema, isolando parte desse sistema para teste, sem depender do restante do sistema ou 
+de qualquer outro fator que esteja implementado.
+
+
+    TESTE DE INTEGRAÇÃO
+
+    Consiste em módulos que são integrados e testados em grupo. Como por exemplo seu software, acessando um banco de dados ou fazendo uma chamada externa a outros sistemas.
+
+
+    TESTE DE SISTEMA 
+
+    É o processo de testar o sistema por completo. Verificando se os componentes são compatíveis, se eles interagem corretamente e se transferem os dados certos no momento certo. 
+    Tem como objetivo executar o software sob o ponto de vista do seu usuário final, realizando o teste do sistema.
+
+
+    TESTE DE ACEITAÇÃO
+
+    Tem como objetivo executar o sistema sob o ponto de vista do usuário final. 
+    O cliente avalia o sistema e após a experiência de utilização tem a responsabilidade de aceitar ou não o sistema que foi entregue e pelo qual foi pago.    
