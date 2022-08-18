@@ -1,0 +1,12 @@
+  REGRA 10 DE MYERS
+  
+  A regra 10 de Myers apresenta que o custo da correção de um defeito tende a aumentar quanto mais tarde ele for encontrado.
+  Os defeitos encontrados nas fases iniciais do projeto de desenvolvimento do software são mais baratos do que aqueles encontrados na produção.
+  
+  
+  CICLO DE VIDA
+  
+  O ciclo de vida é a estrutura contendo processos, atividades e tarefas envolvidas no desenvolvimento, operação e manutenção de um produto de software,
+abrangendo a vida do sistema, desde a definição de seus requisitos até o término de seu uso.
+  O modelo de ciclo de vida é a primeira escolha a ser feita no processo de software. A partir desta escolha define-se desde a maneira mais adequada de 
+obter as necessidades do cliente, até quando e como o cliente receberá sua primeira versão operacional do sistema.
