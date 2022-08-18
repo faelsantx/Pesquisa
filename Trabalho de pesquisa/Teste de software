@@ -1,0 +1,44 @@
+TESTE DE SOFTWARE
+
+    Conceitos: O teste de software é uma parte crucial do desenvolvimento de um software, ele irá testar e verificar se o software consegue entregar corretamente tudo o que ele propõe.
+
+    Quando falhas ocorrem: Softwares que não funcionam corretamente, podem levar a muitos problemas como prejuízos financeiros, perda de reputação, risco em relação a integridade 
+física das pessoas, multas contratuais, entre outras.
+
+    Porque falhas ocorrem: Todos os softwares, desde a especificação e requerimentos até a documentação geral, são escritos por pessoas, e as pessoas são
+propensas a cometer erros, independentemente de suas experiências e qualificações.
+
+    Podemos listar outros itens como: Pressão do tempo de entrega: acaba com que as atividades sejam feitas e entregues sem o devido cuidado, falhas de comunicação e falta de 
+requisitos ou mudanças, pessoas com pouco ou sem treinamento em suas funções, processo de desenvolvimento imaturo
+
+    Diferença entre erro, defeito e falha:
+
+    Erro: Um erro (error) é a diferença entre um resultado obtido e um resultado esperado, podendo gerar um defeito.
+    Defeito: Um defeito (fault) é a manifestação de um erro e pode acarretar uma falha.
+    Falha: Uma falha (failure) é quando um software não cumpre seu objetivo.
+
+
+TESTE ESTÁTICO
+
+    O teste estático trabalha diretamente com o código do software e tem como objetivo principal identificar erros de programação como erros de sintaxe, falhas de segurança.
+    Esse teste auxilia gestores de TI a identificar todas as linhas de código que foram mal escritas durante a criação do software.
+
+
+TESTE DINÂMICO
+
+    O teste dinâmico trabalha com a análise estática do software, principalmente com as informações que são inseridas nas rotinas de entradas e saída de dados.
+    Além disso, ele verifica itens como o tempo de resposta, a performance da aplicação, a capacidade do software se adaptar a diferentes ambientes e o comportamento funcional.
+
+
+CRITÉRIOS DE ACEITAÇÃO
+
+    Os critérios de aceitação são as condições que um produto de software deve atender para ser aceito por um usuário, cliente ou outro sistema.
+
+
+ARTEFATOS DE TESTES
+
+    Artefatos de teste são simplesmente parte integrante do teste de software. Geralmente, são conjuntos de documentos que o testador do projeto de software obtém durante o 
+STLC (Ciclo de Vida do Teste de Software). 
+    Artefatos de teste são subprodutos gerados ou criados durante a execução de testes de software.
+    Esses artefatos de teste gerados são então compartilhados com clientes e equipe de teste ou gerentes de equipe, líderes de equipe, partes interessadas associadas ao projeto e 
+também com membros de outra equipe.
