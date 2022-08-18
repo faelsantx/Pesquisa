@@ -1,0 +1,42 @@
+    TESTE FUNCIONAL 
+
+    Essa técnica testa os requisitos funcionais, as funções e os casos de uso (User Stories).
+    O teste funcional deve responder a pergunta: a aplicação faz o que deveria fazer?
+
+
+    TESTE REGRESSIVO
+
+    Tem como objetivo rodar testes de funcionalidades que já funcionavam anteriormente, relacionando-as com as atualizações realizadas no software.
+
+
+    TESTE EXPLORATÓRIO
+
+    É a técnica que busca empregar todo o conhecimento prévio do testador em busca de novas falhas.
+
+
+    TESTE DE SEGURANÇA 
+
+    O teste de segurança avalia se o sistema e os dados são acessados de maneira segura e apenas pelo autor das ações. 
+    O objetivo é evitar que algum fraudador intercepte a informação que está sendo trafegada ou que colete dados sensíveis.
+
+
+    TESTE DE DESEMPENHO
+
+    O teste de desempenho avalia o software sob as condições normais de uso. Alguns exemplos das análises realizadas: tempo de resposta, número de
+transações por minuto, usuários simultâneos, etc. 
+
+    
+    TESTE DE INTEGRAÇÃO
+
+    Esse teste avalia se um ou mais componentes combinados funcionam de maneira satisfatória, trafegando corretamente as informações.
+
+
+    TESTE UNITÁRIO
+
+    O teste unitário consiste em verificar o comportamento das menores unidades em sua aplicação.
+
+
+    TESTE DE ACEITAÇÃO
+
+    O teste de aceitação é realizado antes de sua disponibilização ao usuário. 
+    É o teste que tem como objetivo verificar se os requisitos foram implementados e se as necessidades do usuário estão sendo atendidas.
