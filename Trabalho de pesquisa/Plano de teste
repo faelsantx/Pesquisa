@@ -1,0 +1,25 @@
+  PLANO DE TESTE
+  
+  Descreve o escopo dos testes a serem realizados, a abordagem e os recursos que serão utilizados como ferramenta de apoio, 
+por exemplo: softwares de automação, para realização de testes unitários e de integração, softwares de varredura de código 
+(teste de cobertura) para identificação de áreas ou trechos que não estão sendo utilizados (este item é conhecido como 
+Complexidade Ciclomática). 
+  O planejamento contempla a elaboração de um cronograma contendo todas as atividades e responsáveis por sua execução.
+  
+  
+  ESPECIFICAÇÃO DO PROJETO DE TESTE
+  
+  Especifica os detalhes da abordagem do teste e identifica as características a serem testadas, incluindo os aspectos funcionais 
+e não funcionais relacionados com o sistema de software.
+
+  
+  ESPECIFICAÇÃO DE CASOS DE TESTE
+  
+  Define o conjunto de casos de teste a serem realizados, por exemplo: Itens a serem testados, especificação das entradas e saídas
+esperadas, premissas e restrições do ambiente onde o teste deverá ocorrer.
+  
+  
+  ESPECIFICAÇÃO DE PROCEDIMENTOS DE TESTE
+  
+  Especifica os passos para execução do caso de teste, basicamente, os passos utilizados para analisar os recursos do software e 
+avaliação de suas características.
