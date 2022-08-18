@@ -1,0 +1,23 @@
+  MANTIS
+
+  Mantis Bug Tracking é uma ferramenta WEB open source, desenvolvida em PHP, customizável e totalmente balanceada entre simplicidade
+e desempenho para controle de bugs.
+
+
+  TESTLINK
+  
+  A ferramenta permite que sejam cadastrados Projetos de Teste, bem como seus respectivos Planos e Casos de testes à serem validados. 
+  Então, a partir da definição do escopo do projeto de teste, é possível controlar e armazenar a execução dos casos de teste especificados.
+
+
+  JUNIT
+  
+  O JUnit funciona com base em anotações (Annotations) e essas anotações indicam se um método é de teste ou não, se um método deve ser executado 
+antes da classe e/ou depois da classe.
+
+
+  SELENIUM
+    
+  Selenium é um conjunto de ferramentas de código aberto multiplataforma, usado para testar aplicações web pelo browser de forma automatizada. 
+  Ele executa testes de funcionalidades da aplicação web e testes de compatibilidade entre browser e plataformas diferentes.
+  
