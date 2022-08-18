@@ -1,0 +1,16 @@
+  PREVENTIVA
+  
+  Equipe de Testes é envolvida desde o início, planejando e especificando as atividades de teste o mais cedo possível. 
+  Isto pode ocasionar a otimização das atividades de teste e consequente redução de custo, já que os bugs do projeto serão encontrados 
+cedo, gerando menos retrabalho. 
+  Aplicação de revisão e análise estática antes do desenvolvimento pode contribuir para prevenir defeitos em tempo de execução de testes. 
+  Desta forma, pode-se reduzir os custos com execução de testes e retrabalho.
+  
+  
+  REATIVA
+  
+  São atividades nas quais a equipe de testes é envolvida muito tardiamente e a abordagem preventiva não pode ser escolhida. 
+  Nesta situação a análise e projeto do sistema já foi concluído, de tal forma que a equipe de testes precisará ‘explorar’ as funcionalidades a serem entregues. 
+  Testes exploratórios são baseados na experiência dos testadores e têm como objetivo executar diversas possibilidades de execução e de avaliação.
+  
+ 
