@@ -1,0 +1,28 @@
+  STEP BY STEP
+  
+  Entendimento dos tipos de testes, identificar vantagens e desvantagens, integrar e não replicar.
+  
+  
+  PAIRWISE
+  
+  O Teste Pairwise é um tipo de teste de software no qual o método de permutação e combinação é usado para testar o software.
+  O teste de pares é um método baseado em P&C, no qual para testar um sistema ou uma aplicação, para cada par de parâmetros 
+de entrada de um sistema, todas as combinações discretas possíveis dos parâmetros são testadas.
+  
+  
+  CLASSE DE EQUIVALÊNCIA
+  
+  Divide o domínio de entrada de um programa em classe de dados a partir das quais os Casos de Teste podem ser derivados.
+  O Particionamento em Classes de Equivalência procura definir um Caso de Teste que descubra classes de erros, assim reduzindo
+o número total de Casos de Teste que devem ser resolvidos.
+
+
+  CAUSA-EFEITO
+  
+  É uma técnica de derivação de Casos de Teste que oferece uma representação concisa das condições lógicas e das ações correspondentes. 
+  Essa técnica segue quatro passos:
+
+	1.Causas (condições de entrada) e efeitos (ações) são relacionados para um módulo e um identificador é atribuído para cada um.
+	2.Um grafo de causa efeito é desenvolvido.
+	3.O grafo é convertido numa Tabela de Decisão.
+	4.As regras da Tabela de Decisão são convertidas em Casos de Teste.
